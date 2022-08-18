@@ -1,6 +1,6 @@
 <h1 align="center"> 
+    <img src="./bongo typee.gif">
     <span> Hi there , I'm Sanket Patil </span> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 </h1>
 <h3 align="center">A developer from Mumbai, India.</h3>
 <img src="https://tenor.com/bELc4.gif" >
