@@ -146,5 +146,5 @@
 <h2> Github Stats </h2>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=sanket-16&show_icons=true&hide_border=true&count_private=true&theme=dark" alt="Github Stats" height="180px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanket-16&show_icons=true&hide_border=true&locale=en&layout=compact&theme=dark" alt="sanket-16" height="180px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanket-16&show_icons=true&hide_border=true&hide=Jupyter%20Notebook&locale=en&layout=compact&theme=dark" alt="sanket-16" height="180px">
 </p>
